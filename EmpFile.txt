@@ -1,4 +1,3 @@
-
 Hello, I want to push again in remote repo.
 Enter the username.
 Enter the password.
