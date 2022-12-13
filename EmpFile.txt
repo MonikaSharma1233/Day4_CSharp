@@ -1,4 +1,7 @@
 
 Hello, I want to push again in remote repo.
-i am changeing the loca; repp
-Please Enter user name and password.
+i am changeing the local repo.
+
+Enter the username.
+Enter the password.
+
